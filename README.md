@@ -1,1 +1,2 @@
-# TP3-ListesDoublementChainees
+# TP3-Listes Doublement Chaînées
+Les consignes sont dans le document pdf.
